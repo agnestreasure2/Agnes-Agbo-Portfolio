@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Agnes-Agbo-Portfolio/static/css/main.cbf8ee41.css",
+    "main.js": "/Agnes-Agbo-Portfolio/static/js/main.15aaab1b.js",
+    "static/media/about_me.png": "/Agnes-Agbo-Portfolio/static/media/about_me.6ca4b60937c7c7620a40.png",
+    "static/media/cv.pdf": "/Agnes-Agbo-Portfolio/static/media/cv.ea287bcd383bf96da0f8.pdf",
+    "static/media/avatar111": "/Agnes-Agbo-Portfolio/static/media/avatar111.b1a9e50b1d51f430175e",
+    "static/media/bgg__texture.PNG": "/Agnes-Agbo-Portfolio/static/media/bgg__texture.4a33869ea009fca71d58.PNG",
+    "index.html": "/Agnes-Agbo-Portfolio/index.html",
+    "main.cbf8ee41.css.map": "/Agnes-Agbo-Portfolio/static/css/main.cbf8ee41.css.map",
+    "main.15aaab1b.js.map": "/Agnes-Agbo-Portfolio/static/js/main.15aaab1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbf8ee41.css",
+    "static/js/main.15aaab1b.js"
+  ]
+}
