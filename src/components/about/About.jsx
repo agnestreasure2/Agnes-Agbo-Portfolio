@@ -22,7 +22,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>1+ Years Working Experience</small>
+              <small>6+ Months Working Experience</small>
             </article>
             <article className='about__card'>
               <RiUserStarFill className='about__icon' />

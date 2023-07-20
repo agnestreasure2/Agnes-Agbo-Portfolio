@@ -20,37 +20,13 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p> Third-party Integration</p>
+              <p>Implementing user interfaces and user experiences (UI/UX) designs.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
               <p>
-                Integrate various third-party APIs, libraries and services.
+                Implementing navigation, routing and handling state management in the app.
               </p>
-            </li>
-            
-          </ul>
-        </article>
-        <article className='service'>
-          <div className='service__head'>
-            <h3>Deployment</h3>
-          </div>
-          <ul className='service__list'>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Deploy mobile application to app stores such as the Apple app store and Google play store</p>
-            </li>
-          </ul>
-        </article>
-        <article className='service'>
-          <div className='service__head'>
-            <h3>Team Management</h3>
-          </div>
-          <ul className='service__list'>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p> Participate in continuous improvement by generating suggestions,
-                engaging in problem-solving activities to support teamwork.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -63,6 +39,29 @@ const Services = () => {
                 Create plans and communicate deadlines to complete projects on
                 time.
               </p>
+            </li>
+          </ul>
+        </article>
+        <article className='service'>
+          <div className='service__head'>
+            <h3>Deployment</h3>
+          </div>
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Deploy mobile application to app stores such as the Apple app store and Google play store</p>
+            </li>
+            
+          </ul>
+        </article>
+        <article className='service'>
+          <div className='service__head'>
+            <h3>Third-party Integration</h3>
+          </div>
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p> Integrating backend APIs and services with the mobile app.</p>
             </li>
             
           </ul>

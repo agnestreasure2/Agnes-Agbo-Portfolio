@@ -147,7 +147,7 @@ const Experience = () => {
             <article className='experience__details'>
               <HiBadgeCheck className='experience__details-icon' />
               <div>
-                <h4>API Integratiob</h4>
+                <h4>API Integration</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>

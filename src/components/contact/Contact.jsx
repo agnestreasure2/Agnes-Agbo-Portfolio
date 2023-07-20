@@ -43,7 +43,7 @@ const Contact = () => {
             <FaTelegramPlane className='contact__option-icon' />
             <h4>Telegram</h4>
             <h5>Agnes Agbo</h5>
-            <a href='https://t.me/deecentralized' target='_blank'>
+            <a href='https://t.me/Agneytreasure' target='_blank'>
               Send a message
             </a>
           </article>
