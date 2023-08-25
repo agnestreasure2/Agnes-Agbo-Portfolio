@@ -22,7 +22,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>6+ Months Working Experience</small>
+              <small> A year Working Experience</small>
             </article>
             <article className='about__card'>
               <RiUserStarFill className='about__icon' />
@@ -36,7 +36,7 @@ const About = () => {
             </article>
           </div>
           <p>
-          I am an experienced React Native developer with 6 months of hands-on experience.
+          I am an experienced React Native developer with a year of hands-on experience.
           I'm Organized and dependable, successful at managing multiple priorities with a
           positive attitude. I always have the Willingness to take on added responsibilities to
           meet team goals. I'm Enthusiastic and eager to contribute to team success through hard work, 
